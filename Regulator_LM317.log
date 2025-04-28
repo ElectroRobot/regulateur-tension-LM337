@@ -1,0 +1,15 @@
+LTspice 24.1.7 for Windows
+Circuit: D:\electro-robot\LTSpice\Regulator_LM317.net
+Start Time: Mon Apr 28 12:35:07 2025
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.751 seconds.
+
+Files loaded:
+D:\electro-robot\LTSpice\Regulator_LM317.net
+C:\Users\bkhro\Documents\LTspice\LM337.sub
+
