@@ -1,7 +1,7 @@
 # régulateur-tension-LM337
 
 Ce repository enregistre les différents fichiers LTSpice comment vous pouvez réaliser un régulateur de tension à base LM337 et analyser son comportement en l'ajustant via les deux résistances R1 et R2.
-Plus de détails, vous pouvez vous faire référence à : [https://electro-robot.com/programmation](https://electro-robot.com/les-activites/activite-de-decouverte-regulateur-de-tension)
+Plus de détails, vous pouvez vous faire référence à : [https://electro-robot.com/les-activites/activite-de-decouverte-regulateur-de-tension](https://electro-robot.com/les-activites/activite-de-decouverte-regulateur-de-tension)
 
 # C'est quoi l'apprentissage avec Electro-Robot ?
 
